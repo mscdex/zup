@@ -96,7 +96,7 @@ Symbols that can be used after **start** markers:
 
 Symbols that can be used before **end** markers:
 
-  * `>` - If just a single `<`, this indicates that only newlines (`'\r'` and `'\n'`) will be trimmed from the beginning and end of the output returned from the expression.
+  * `>` - If just a single `>`, this indicates that only newlines (`'\r'` and `'\n'`) will be trimmed from the beginning and end of the output returned from the expression.
 
   * `>>` - This indicates that all whitespace (`'\r'`, `'\n'`, `'\t'`, `' '`, and `'\f'`) will be trimmed from the beginning and end of the output returned from the expression.
 
