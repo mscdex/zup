@@ -1,0 +1,13 @@
+{ "name": "zup",
+  "version": "0.0.0",
+  "author": "Brian White <mscdex@mscdex.net>",
+  "description": "A simple, fast template engine for node.js",
+  "main": "./lib/main",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "engines": { "node": ">=4.0.0" },
+  "keywords": [ "template", "engine", "partials", "fast", "render" ],
+  "licenses": [ { "type": "MIT", "url": "http://github.com/mscdex/zup/raw/master/LICENSE" } ],
+  "repository" : { "type": "git", "url": "http://github.com/mscdex/zup.git" }
+}
