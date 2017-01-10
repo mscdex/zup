@@ -1,5 +1,5 @@
 { "name": "zup",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Brian White <mscdex@mscdex.net>",
   "description": "A simple, fast template engine for node.js",
   "main": "./lib/main",
