@@ -102,7 +102,7 @@ Symbols that can be used before **end** markers:
 
 There is also an `include()` helper available inside templates:
 
-  * **include**(< _string_ >name[, < _object_ >data) - _(void)_ - Inserts the rendered output of the template specified by `name` at the current position in the current template. `data` is an optional value that you can pass to the template's render function to use as a data source. How the template identified by `name` is looked up is described below in the description of `cache.get()`.
+  * **include**(< _string_ >name[, < _object_ >data]) - _(void)_ - Inserts the rendered output of the template specified by `name` at the current position in the current template. `data` is an optional value that you can pass to the template's render function to use as a data source. How the template identified by `name` is looked up is described below in the description of `cache.get()`.
 
 API
 ===
